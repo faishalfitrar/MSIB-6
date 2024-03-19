@@ -1,0 +1,12 @@
+Kumpulan materi MSIB 6
+- HTML dan CSS
+- GitHub
+- UI/UX
+- JavaScript
+- PHP
+- Laravel
+- MySQL 
+- Rest API
+- Consum API
+- Belajar bersama
+//git add untuk menambahkan file
